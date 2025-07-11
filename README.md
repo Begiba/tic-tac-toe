@@ -1,2 +1,8 @@
 # tic-tac-toe
-tic tac toe python game code
+Simple terminal tic tac toe game written  in python.
+
+## Run  
+python tic-tac-toe.py
+
+
+
